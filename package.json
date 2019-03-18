@@ -33,7 +33,7 @@
   },
   "optionalDependencies": {
     "get-pixels": "*",
-    "qr-image": "*",
+    "qr-image": "*"
   },
   "devDependencies": {
     "mocha": "*"
